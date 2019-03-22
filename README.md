@@ -1,2 +1,2 @@
-# jdc-exercise1
+# Exercise 1
 Javascript Development Course - Exercise 1
